@@ -9,6 +9,7 @@ Love the simplicity of Kubernetes. I know. The opposite of what everyone makes i
 
 Add me on Discord.
 My PFP is literally my default GH PFP. So praying GH doesn't die!
+
 [![Discord](https://img.shields.io/badge/Discord-bleepbleepcode-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1173768103767855107)
 
 My website is [https://timohoyland.co.uk](https://timohoyland.co.uk).

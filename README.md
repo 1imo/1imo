@@ -1,16 +1,15 @@
-## Hi there 👋
+## My Github. Welcome.
 
-<!--
-**1imo/1imo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There isn't much to show. Most of my repos are private now.
 
-Here are some ideas to get you started:
+These days I use https://github.com/NottInfra/boilerplate to bootstrap apps quickly.
+I have something similar for managed devices and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love the simplicity of Kubernetes. I know. The opposite of what everyone makes it out to be!
+
+Add me on Discord.
+My PFP is literally my default GH PFP. So praying GH doesn't die!
+[![Discord](https://img.shields.io/badge/Discord-bleepbleepcode-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1173768103767855107)
+
+My website is [https://timohoyland.co.uk](https://timohoyland.co.uk).
+Of course I recommend checking it out :)

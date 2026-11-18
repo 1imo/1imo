@@ -32,8 +32,6 @@ powershell              = "classes-got-to-me"
 [about]
 Check out my blog below!
 
-┌──(1imo㉿github)-[~]
-└─$ 
 ```
 
 <p align="center"> <a href="https://timohoyland.co.uk"><img src="https://img.shields.io/badge/WEBSITE-timohoyland.co.uk-111111?style=for-the-badge&logo=rss&logoColor=white"></a>&nbsp; <a href="https://github.com/NottInfra/boilerplate"><img src="https://img.shields.io/badge/PROJECT-BOILERPLATE-111111?style=for-the-badge&logo=github&logoColor=white"></a> </p>

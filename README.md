@@ -19,9 +19,8 @@ process/
 automation/
 
 [projects]
-Most of my repositories are private these days.
-
-I use https://github.com/NottInfra/boilerplate for bootstrapping apps quickly.
+Most of my repositories are private.
+I use https://github.com/NottInfra/boilerplate to bootstrap apps quickly.
 And I have something similar for managed devices and servers too.
 
 [system_preferences]
